@@ -59,8 +59,8 @@ export default function Home() {
   return (
     <main className="flow-grid min-h-screen overflow-hidden bg-graphite text-ink">
       <a
-        href="http://localhost:3000"
-        className="fixed left-3 top-3 z-50 inline-flex items-center gap-2 rounded-full border border-line bg-black/60 px-4 py-2 text-sm text-ink backdrop-blur-xl transition hover:border-mint-300 hover:text-mint-300 sm:left-5 sm:top-5"
+        href="https://eduardoazevedo.tech/"
+        className="fixed bottom-3 right-3 z-50 inline-flex items-center gap-2 rounded-full border border-line bg-black/60 px-4 py-2 text-sm text-ink backdrop-blur-xl transition hover:border-mint-300 hover:text-mint-300 sm:bottom-5 sm:right-5"
       >
         <ArrowLeft className="h-4 w-4" />
         Portfolio
